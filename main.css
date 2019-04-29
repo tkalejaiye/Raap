@@ -323,7 +323,7 @@ body {
     grid-gap: 20px;
   }
 
-  .main_container {
+  .main__container {
     margin: 0;
   }
 }
